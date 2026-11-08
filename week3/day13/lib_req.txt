@@ -1,0 +1,1 @@
+uv add groq python-dotenv numpy sentence_transformers
