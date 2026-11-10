@@ -1,0 +1,6 @@
+"Mr. Nadeem works during 9am - 5pm from monday to saturday in his office, Sunday is strictly a day-off work and he doesnot go anywhere on sundays.",
+"His office is 20km away from his house",
+"It takes around nearly 1-1.5hrs for him to reach his office on heavy traffic days through car. On normal days he reaches before 1hr that is nearly 50mins",
+"On evenings and nights after his work shifts, going back home takes 1hr on normal days with normal traffic.",
+"On days of any occassion, the traffic is so much and it takes him around 2.5hr to travel back to his home from office.",
+"He takes day off on sundays and dont go anywhere and takes rest at home."
